@@ -1,0 +1,13 @@
+--BASIC OUTLINE OF THE PROJECT--
+
+A loan application is used by borrowers to apply for a loan. Through the loan application, borrowers reveal key details about their finances to the lender. The loan application is crucial to determining whether the lender will grant the request for funds or credit.
+
+-DATA ANALYSIS-
+
+The loan of 343(around 69.85%) people out of 491 were approved.
+
+Different types of variables are Categorical, ordinal and numerical.
+
+Categorical features: These features have categories (Gender, Married, Self_Employed, Credit_History, Loan_Status)
+Ordinal features: Variables in categorical features having some order involved (Dependents, Education, Property_Area)
+Numerical features: These features have numerical values (ApplicantIncome, CoapplicantIncome, LoanAmount,Loan_Amount_Term)
